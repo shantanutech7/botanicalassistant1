@@ -73,3 +73,9 @@ Building at the intersection of AI, Product & Creative Tech.
 ## 📄 License
 
 MIT License — feel free to use and modify.
+## 🌐 Live Demo
+
+| Service | URL |
+|---------|-----|
+| 🖥️ Frontend | [botanicalassistant1.vercel.app](https://botanicalassistant1.vercel.app) |
+| ⚙️ Backend API | [botanicalassistant1.onrender.com](https://botanicalassistant1.onrender.com) |
