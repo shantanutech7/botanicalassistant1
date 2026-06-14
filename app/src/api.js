@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = import.meta.env.VITE_API_URL || 'https://botanicalassistant1.onrender.com'
 
 export async function analyzeWithYOLO(imageBase64) {
   try {
