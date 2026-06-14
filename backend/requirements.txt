@@ -1,0 +1,8 @@
+flask
+flask-cors
+anthropic
+opencv-python-headless
+pillow
+ultralytics
+python-dotenv
+numpy
